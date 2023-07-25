@@ -41,7 +41,7 @@ body {
 }
 
 h1 {
-    color: var(--pl-white);
+    color: rgb(116, 116, 116);
     /* opacity: 0.75; */
     text-transform: uppercase;
     letter-spacing: 2px;
